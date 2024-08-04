@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work UA\\Unity\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Work UA\\Unity\\My project\\assets\\scripts\\soungs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soungs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\work ua\\unity\\my project\\assets\\scripts\\putcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\putcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Work UA\\Unity\\My project\\assets\\scripts\\triger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Work UA\\Unity\\My project\\assets\\scripts\\camerao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Soungs.cs",
+              "DocumentMoniker": "D:\\Work UA\\Unity\\My project\\Assets\\Scripts\\Soungs.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Soungs.cs",
+              "ToolTip": "D:\\Work UA\\Unity\\My project\\Assets\\Scripts\\Soungs.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Soungs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:47:18.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraO.cs",
+              "DocumentMoniker": "D:\\Work UA\\Unity\\My project\\Assets\\Scripts\\CameraO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraO.cs",
+              "ToolTip": "D:\\Work UA\\Unity\\My project\\Assets\\Scripts\\CameraO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T11:21:19.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triger.cs",
+              "DocumentMoniker": "D:\\Work UA\\Unity\\My project\\Assets\\Scripts\\Triger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Triger.cs",
+              "ToolTip": "D:\\Work UA\\Unity\\My project\\Assets\\Scripts\\Triger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Triger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:44:37.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PutCube.cs",
+              "DocumentMoniker": "D:\\Work UA\\Unity\\My project\\Assets\\Scripts\\PutCube.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PutCube.cs",
+              "ToolTip": "D:\\Work UA\\Unity\\My project\\Assets\\Scripts\\PutCube.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PutCube.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAABCwCkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:52:27.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 96,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
